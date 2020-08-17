@@ -30,6 +30,9 @@ alias dpall="docker_ps -a"
 alias dstart="docker start"
 alias dstop="docker stop"
 
+# Set Alias: Go
+alias goland="/usr/local/bin/goland"
+
 # Set Docker Functions
 
 function dexec {

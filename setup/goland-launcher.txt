@@ -1,0 +1,5 @@
+1. Open GoLand and click the top menu Tools >> Create Command-line Launcher...
+2. Save the launcher file in your preferred location, or leave it as is by default. (e.g. /usr/local/bin/goland)
+3. Create alias pointing to the launcher file. (e.g. alias goland='/usr/local/bin/goland')
+4. Run launcher (e.g. cd myrepo && goland .)
+
